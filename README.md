@@ -1,2 +1,2 @@
 # Task
-自用的Quantumult X签到脚本
+自用Quantumult X脚本
