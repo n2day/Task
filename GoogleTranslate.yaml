@@ -1,0 +1,7 @@
+# NAME: GoogleTranslate
+# AUTHOR: n2Day
+# UPDATED: 2022-10-14 02:31:42
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
+payload:
+  - DOMAIN-SUFFIX,translate.googleapis.com
