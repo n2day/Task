@@ -18,7 +18,7 @@ Widgetsmith、vision、Percento、Airmail、Usage、Spark、Pdf Viewer、谜底�
 [rewrite_local]
 
 # ～ RevenueCat（2022-10-12）@ddgksf2013
-^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(\$RCAnonymousID%)?(\w)*$) url script-echo-response https://raw.githubusercontent.com/n2day/Task-Rewrite/main/revenuecat.js
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/(\$RCAnonymousID%)?(\w)*$) url script-echo-response https://raw.githubusercontent.com/n2day/Task-Rewrite/main/revenuecatPJ.js
 
 [mitm]
 
