@@ -5,3 +5,6 @@
 # TOTAL: 1
 payload:
   - DOMAIN-SUFFIX,translate.googleapis.com
+  - DOMAIN-SUFFIX,translate.googleapis.cn
+  - DOMAIN-SUFFIX,translate.google.com
+  - DOMAIN-SUFFIX,translate.google.cn
